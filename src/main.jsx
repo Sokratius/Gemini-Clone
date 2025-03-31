@@ -9,3 +9,5 @@ createRoot(document.getElementById('root')).render(
         <App />
     </ContextProvider>,
 )
+
+// const apiKey = "AIzaSyDwLXQJqrv4M6aMYiqVg0d9a80SuKS6_no"
